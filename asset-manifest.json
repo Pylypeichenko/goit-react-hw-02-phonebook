@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Pylypeichenko/goit-react-hw-02-phonebook.git%20/static/css/main.7acaea2f.css",
-    "main.js": "/Pylypeichenko/goit-react-hw-02-phonebook.git%20/static/js/main.69e6249f.js",
+    "main.css": "/Pylypeichenko/goit-react-hw-02-phonebook.git%20/static/css/main.8c845a03.css",
+    "main.js": "/Pylypeichenko/goit-react-hw-02-phonebook.git%20/static/js/main.0be39b12.js",
     "index.html": "/Pylypeichenko/goit-react-hw-02-phonebook.git%20/index.html",
-    "main.7acaea2f.css.map": "/Pylypeichenko/goit-react-hw-02-phonebook.git%20/static/css/main.7acaea2f.css.map",
-    "main.69e6249f.js.map": "/Pylypeichenko/goit-react-hw-02-phonebook.git%20/static/js/main.69e6249f.js.map"
+    "main.8c845a03.css.map": "/Pylypeichenko/goit-react-hw-02-phonebook.git%20/static/css/main.8c845a03.css.map",
+    "main.0be39b12.js.map": "/Pylypeichenko/goit-react-hw-02-phonebook.git%20/static/js/main.0be39b12.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.69e6249f.js"
+    "static/css/main.8c845a03.css",
+    "static/js/main.0be39b12.js"
   ]
 }
